@@ -6,4 +6,4 @@ SELECT name, bonus
     Bonus B
     ) 
     ON E.empId = B.empId 
-WHERE B.bonus IS NULL OR B.bonus<1000
+WHERE COALESCE(bonus,0) < 1000
