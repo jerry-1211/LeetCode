@@ -1,15 +1,18 @@
 # Write your MySQL query statement below
-SELECT S.user_id  ,
-        ROUND(AVG(COALESCE(action_fixed,0)) ,2) confirmation_rate
-    FROM Signups S
-    LEFT JOIN
+SELECT S.user_id,
+    ROUND
     (
-        SELECT *,
-            CASE
-                WHEN action = 'timeout' THEN 0 
-                WHEN action = 'confirmed' THEN 1
-            END AS action_fixed
-        FROM Confirmations 
-    ) C
+        COALESCE(
+            AVG
+            (
+                CASE WHEN c.action = 'confirmed' THEN 1
+                ELSE 0
+                END
+            ),0
+        ),2
+    )
+    AS confirmation_rate 
+    FROM Signups S
+    LEFT JOIN Confirmations C
     ON S.user_id = C.user_id 
     GROUP BY S.user_id
