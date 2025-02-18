@@ -5,6 +5,7 @@ SELECT E1.name
     (
         SELECT *, COUNT(*) COUNT
         FROM Employee 
+        WHERE managerId IS NOT NULL
         GROUP BY managerId 
     ) E2
     ON E1.id  = E2.managerId 
