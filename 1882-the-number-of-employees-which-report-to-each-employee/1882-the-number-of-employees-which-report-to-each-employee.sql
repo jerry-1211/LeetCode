@@ -4,7 +4,7 @@ SELECT
     A.employee_id,
     A.name,
     COUNT(*) AS reports_count ,
-    ROUND(SUM(B.age) / COUNT(*),0) AS average_age 
+    ROUND(AVG(B.age) ,0) AS average_age 
 FROM Employees  A
 LEFT JOIN Employees  B
 ON A.employee_id = B.reports_to 
