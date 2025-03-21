@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jerry-1211/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0724-find-pivot-index](https://github.com/jerry-1211/LeetCode/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/jerry-1211/LeetCode/tree/master/0392-is-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jerry-1211/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
