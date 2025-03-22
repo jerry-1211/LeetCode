@@ -43,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jerry-1211/LeetCode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jerry-1211/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/jerry-1211/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/jerry-1211/LeetCode/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/jerry-1211/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/jerry-1211/LeetCode/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
