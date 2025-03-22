@@ -3,10 +3,6 @@ class Solution:
         dic = {}
         lst = s.split(" ")
 
-
-        print("len(lst) " , len(lst))
-        print("len() ", len(s),s)
-
         if (len(lst) != len(pattern)):
             return False
 
@@ -21,14 +17,14 @@ class Solution:
         
         s = set()
         lst = []
+
         for i in dic:
             s.add(dic[i])
             lst.append(dic[i])
 
-        print(s)
-        print(lst)
-        
         if len(s) != len(lst):
             return False
         return True
+        
+        
         
