@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/jerry-1211/LeetCode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/jerry-1211/LeetCode/tree/master/0392-is-subsequence) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/jerry-1211/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 ## Dynamic Programming
@@ -85,5 +86,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jerry-1211/LeetCode/tree/master/0001-two-sum) |
+| [0290-word-pattern](https://github.com/jerry-1211/LeetCode/tree/master/0290-word-pattern) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/jerry-1211/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 <!---LeetCode Topics End-->
