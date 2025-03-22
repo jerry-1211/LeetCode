@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/jerry-1211/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/jerry-1211/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/jerry-1211/LeetCode/tree/master/0724-find-pivot-index) |
+| [2350-find-closest-number-to-zero](https://github.com/jerry-1211/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
