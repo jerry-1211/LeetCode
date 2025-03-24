@@ -6,7 +6,7 @@ class Solution {
         int x2 = coordinates[1][0];
         int y2 = coordinates[1][1];
         
-        for(int i = 2; i < coordinates.length; i++){
+        for(int i = 0; i < coordinates.length; i++){
             int x = coordinates[i][0]; 
             int y = coordinates[i][1];
 
