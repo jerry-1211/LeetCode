@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/jerry-1211/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/jerry-1211/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/jerry-1211/LeetCode/tree/master/0724-find-pivot-index) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/jerry-1211/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2350-find-closest-number-to-zero](https://github.com/jerry-1211/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Prefix Sum
 |  |
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jerry-1211/LeetCode/tree/master/0001-two-sum) |
 | [0290-word-pattern](https://github.com/jerry-1211/LeetCode/tree/master/0290-word-pattern) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/jerry-1211/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
+## Math
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/jerry-1211/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/jerry-1211/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
